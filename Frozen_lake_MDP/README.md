@@ -16,7 +16,7 @@
 
 
 
-<img src="/Project1/img/hw1.png" width="80%">
+<img src="/Project1/img/hw1.png" width="80%"> 
 
 * See more details of FrozenLake on [OpenAI Gymnasium](https://gymnasium.farama.org/environments/toy_text/frozen_lake/).
 
